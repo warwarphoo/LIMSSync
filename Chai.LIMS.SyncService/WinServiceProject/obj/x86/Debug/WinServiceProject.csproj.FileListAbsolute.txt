@@ -1,0 +1,4 @@
+C:\Users\Dell\Downloads\WinServiceProject\WinServiceProject\bin\Debug\WinServiceProject.exe.config
+C:\Users\Dell\Downloads\WinServiceProject\WinServiceProject\bin\Debug\LIMSSyncService.exe.config
+C:\Users\Dell\Downloads\WinServiceProject\WinServiceProject\bin\Debug\CHAI.LIMSSyncService.exe.config
+C:\Users\Dell\Downloads\WinServiceProject\WinServiceProject\bin\Debug\CHAI.LIMS.SyncService.exe.config

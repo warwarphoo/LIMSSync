@@ -1,0 +1,15 @@
+﻿Installing assembly 'D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.InstallLog
+   assemblypath = D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe
+   logtoconsole = 
+Installing service ChaiLIMSSync...
+Service ChaiLIMSSync has been successfully installed.
+Creating EventLog source ChaiLIMSSync in log Application...
+Committing assembly 'D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.InstallLog
+   assemblypath = D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe
+   logtoconsole = 

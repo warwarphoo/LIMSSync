@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CHAI.LIMS.SyncService.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ScopeName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SyncScopeWWPComputer</Value>
+    </Setting>
+    <Setting Name="clientConn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=.\SQlExpress;Initial Catalog=LISSyncDB;User ID=ruser;Password=password</Value>
+    </Setting>
+    <Setting Name="serverConn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=52.19.218.170;Initial Catalog=LISSyncDB;User ID=ruser;Password=password</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

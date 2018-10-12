@@ -1,0 +1,18 @@
+E:\WorkSpace\MaynmarProjects\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\DeprovisionServer.exe.config
+E:\WorkSpace\MaynmarProjects\Sync\DeprovisionServer\DeprovisionServer\obj\Debug\DeprovisionServer.csprojResolveAssemblyReference.cache
+E:\WorkSpace\MaynmarProjects\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\DeprovisionServer.exe
+E:\WorkSpace\MaynmarProjects\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\DeprovisionServer.pdb
+E:\WorkSpace\MaynmarProjects\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\Microsoft.Synchronization.xml
+E:\WorkSpace\MaynmarProjects\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\Microsoft.Synchronization.Data.xml
+E:\WorkSpace\MaynmarProjects\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\Microsoft.Synchronization.Data.SqlServer.xml
+E:\WorkSpace\MaynmarProjects\Sync\DeprovisionServer\DeprovisionServer\obj\Debug\DeprovisionServer.exe
+E:\WorkSpace\MaynmarProjects\Sync\DeprovisionServer\DeprovisionServer\obj\Debug\DeprovisionServer.pdb
+D:\My Project\Workspace\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\DeprovisionServer.exe.config
+D:\My Project\Workspace\Sync\DeprovisionServer\DeprovisionServer\obj\Debug\DeprovisionServer.exe
+D:\My Project\Workspace\Sync\DeprovisionServer\DeprovisionServer\obj\Debug\DeprovisionServer.pdb
+D:\My Project\Workspace\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\DeprovisionServer.exe
+D:\My Project\Workspace\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\DeprovisionServer.pdb
+D:\My Project\Workspace\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\Microsoft.Synchronization.xml
+D:\My Project\Workspace\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\Microsoft.Synchronization.Data.xml
+D:\My Project\Workspace\Sync\DeprovisionServer\DeprovisionServer\bin\Debug\Microsoft.Synchronization.Data.SqlServer.xml
+D:\My Project\Workspace\Sync\DeprovisionServer\DeprovisionServer\obj\Debug\DeprovisionServer.csprojResolveAssemblyReference.cache
