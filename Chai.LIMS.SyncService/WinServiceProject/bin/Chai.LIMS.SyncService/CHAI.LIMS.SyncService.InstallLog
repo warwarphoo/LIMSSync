@@ -1,0 +1,62 @@
+﻿Installing assembly 'D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.InstallLog
+   assemblypath = D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe
+   logtoconsole = 
+Installing service ChaiLIMSSync...
+Service ChaiLIMSSync has been successfully installed.
+Creating EventLog source ChaiLIMSSync in log Application...
+Committing assembly 'D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.InstallLog
+   assemblypath = D:\My Project\Workspace\Sync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.InstallLog
+   assemblypath = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe
+Removing EventLog source ChaiLIMSSync.
+Service ChaiLIMSSync is being removed from the system...
+Service ChaiLIMSSync was successfully removed from the system.
+Installing assembly 'D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.InstallLog
+   assemblypath = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe
+   logtoconsole = 
+Installing service ChaiLIMSSync...
+Service ChaiLIMSSync has been successfully installed.
+Creating EventLog source ChaiLIMSSync in log Application...
+Committing assembly 'D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.InstallLog
+   assemblypath = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe
+   logtoconsole = 
+Uninstalling assembly 'D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.InstallLog
+   assemblypath = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe
+Removing EventLog source ChaiLIMSSync.
+Service ChaiLIMSSync is being removed from the system...
+Service ChaiLIMSSync was successfully removed from the system.
+Attempt to stop service ChaiLIMSSync.
+Installing assembly 'D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.InstallLog
+   assemblypath = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe
+   logtoconsole = 
+Installing service ChaiLIMSSync...
+Service ChaiLIMSSync has been successfully installed.
+Creating EventLog source ChaiLIMSSync in log Application...
+Committing assembly 'D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe'.
+Affected parameters are:
+   i = 
+   logfile = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.InstallLog
+   assemblypath = D:\My Project\Workspace\Sync\LIMSSync\Chai.LIMS.SyncService\WinServiceProject\bin\Release\CHAI.LIMS.SyncService.exe
+   logtoconsole = 

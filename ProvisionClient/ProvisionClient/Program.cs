@@ -24,6 +24,8 @@ namespace ProvisionClient
                 // Obtain the description of VLSummaryReport table from the server using the scope name
                 DbSyncScopeDescription scopeDesc = SqlSyncDescriptionBuilder.GetDescriptionForScope(strscopename, serverConn);              
                 SqlSyncScopeProvisioning clientProvision = new SqlSyncScopeProvisioning(clientConn, scopeDesc);
+
+                clientProvision.CommandTimeout = 180000;
                 clientProvision.Apply();
                 Console.WriteLine("Client Successfully Provisioned.");
                 Console.ReadLine();

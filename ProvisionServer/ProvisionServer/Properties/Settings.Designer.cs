@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ProvisionClient.Properties {
+namespace ProvisionServer.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
@@ -37,21 +37,32 @@ namespace ProvisionClient.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=.\\SQlExpress;Initial Catalog=LISSyncDB;User ID=ruser;Password=passwor" +
-            "d")]
-        public string clientConn {
+        [global::System.Configuration.DefaultSettingValueAttribute("EIDSummary")]
+        public string syncTableEID {
             get {
-                return ((string)(this["clientConn"]));
+                return ((string)(this["syncTableEID"]));
             }
             set {
-                this["clientConn"] = value;
+                this["syncTableEID"] = value;
             }
         }
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=52.19.218.170;Initial Catalog=LISSyncDB;User ID=ruser;Password=passwo" +
-            "rd")]
+        [global::System.Configuration.DefaultSettingValueAttribute("VLSummary")]
+        public string syncTableVL {
+            get {
+                return ((string)(this["syncTableVL"]));
+            }
+            set {
+                this["syncTableVL"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=WIN-ERAM9TL54U4;Initial Catalog=LISSyncDB;User ID=ruser;Password=pass" +
+            "word")]
         public string serverConn {
             get {
                 return ((string)(this["serverConn"]));

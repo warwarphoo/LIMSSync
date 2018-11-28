@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ProvisionServer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ScopeName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SyncScopeUnionComputer</Value>
+    </Setting>
+    <Setting Name="syncTableEID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">EIDSummary</Value>
+    </Setting>
+    <Setting Name="syncTableVL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VLSummary</Value>
+    </Setting>
+    <Setting Name="serverConn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=WIN-ERAM9TL54U4;Initial Catalog=LISSyncDB;User ID=ruser;Password=password</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -11,5 +11,11 @@
     <Setting Name="serverConn" Type="System.String" Scope="User">
       <Value Profile="(Default)">Data Source=52.19.218.170;Initial Catalog=LISSyncDB;User ID=ruser;Password=password</Value>
     </Setting>
+    <Setting Name="folderPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:\temp\LIMS</Value>
+    </Setting>
+    <Setting Name="Interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60000</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

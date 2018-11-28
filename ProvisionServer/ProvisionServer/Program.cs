@@ -10,10 +10,11 @@ namespace ProvisionServer
     {
         static void Main(string[] args)
         {
-            string strscopename = TechnicalConfig.GetConfiguration()["ScopeName"].ToString();
-            string strsyncTableEID = TechnicalConfig.GetConfiguration()["syncTableEID"].ToString();
-            string strsyncTableVL = TechnicalConfig.GetConfiguration()["syncTableVL"].ToString();
-            string strserverConn = TechnicalConfig.GetConfiguration()["serverConn"].ToString();
+            string strscopename = Properties.Settings.Default["ScopeName"].ToString();
+            string strserverConn = Properties.Settings.Default["serverConn"].ToString();            
+            string strsyncTableEID = Properties.Settings.Default["syncTableEID"].ToString();
+            string strsyncTableVL = Properties.Settings.Default["syncTableVL"].ToString();
+            
             try
             {
                 // connect to server database (The Public IP)

@@ -26,7 +26,7 @@ namespace CHAI.LIMS.SyncService
         {
             this.ServiceName = "ChaiLIMSSync";            
         }
-        private string folderPath = @"c:\temp";
+      
         private System.Timers.Timer tDoWork = new System.Timers.Timer();
 
         /// <summary>
@@ -36,9 +36,9 @@ namespace CHAI.LIMS.SyncService
         {
             string strmsg = " ChaiLIMSSyncService: Service Started at " + DateTime.Now.ToShortDateString() + " " + DateTime.Now.ToShortTimeString() + "\n";
             WriteLogFile(strmsg);
+            int Interval = (int)Properties.Settings.Default["Interval"];
 
-           
-            tDoWork.Interval = 60000; // 60 seconds
+            tDoWork.Interval = Interval; // 60 seconds,1 min
             tDoWork.Elapsed += new System.Timers.ElapsedEventHandler(this.OnTimer);
             tDoWork.Start();          
 
@@ -116,9 +116,12 @@ namespace CHAI.LIMS.SyncService
         }
         void WriteLogFile(string strerrormsg)
         {
+            string folderPath=  Properties.Settings.Default["folderPath"].ToString();
             if (!System.IO.Directory.Exists(folderPath))
                 System.IO.Directory.CreateDirectory(folderPath);
-            FileStream fs = new FileStream(folderPath + "\\ChaiLIMSSyncService.txt", FileMode.OpenOrCreate, FileAccess.Write);
+            string filename = String.Format("{0}_{1:yyyy-MM-dd}.txt", "ChaiLIMSSyncService", DateTime.Now);
+            string path = Path.Combine(folderPath, filename);
+            FileStream fs = new FileStream(path, FileMode.OpenOrCreate, FileAccess.Write);
             StreamWriter m_streamWriter = new StreamWriter(fs);
             m_streamWriter.BaseStream.Seek(0, SeekOrigin.End);
             m_streamWriter.WriteLine(strerrormsg);          
